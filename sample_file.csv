@@ -1,12 +1,12 @@
 ap#,ap_name,new_ap_name,ap_mac,ap_sn,ap_notes,height_actual,ap_orientation,mount_tag,profile_tag,2.4_GHz_TxP,5_GHz_TxP,6_GHz_TxP,Orientation Info,,,Mount Tag Options,,,Profile Tag Options,
-1,bpcrb-ap02,,,,,3.0480370641306997,,,,9,12,15,0,Up,,conduit,,,cooler,Cooler APs
-2,bpcrb-ap01,,,,,3.0480370641306997,,,,,,,90,Right,,cooler,,,outdoor,Outdoor APs w/Internal antenna
-3,bpcrb-ap01,,,,,2.5,,,,,,,180,Down,,grid,,,d5g,Internal APs that need to be set to dual 5 GHz
-4,bpcrb-ap01,,,,,2.5,,,,,,,270,Left,,ceiling,,,810,AP63E + ATS03022 antenna
-5,bpcrb-ap01,,,,,2.5,,,,,,,,,,wall,,,1312,AP63E + ATS01022 antenna
-6,bpcrb-ap01,,,,,2.5,,,,,,,,,,threaded-rod,,,,
-7,bpcrb-ap01,,,,,2.5,,,,,,,,,,,,,,
-8,bpcrb-ap01,,,,,2.5,,,,,,,Column B (ap_name) must match the AP names in Ekahau.,,,,,,,
+1,,,,,,,,,,9,12,15,0,Up,,conduit,,,cooler,Cooler APs
+2,,,,,,,,,,,,,90,Right,,cooler,,,outdoor,Outdoor APs w/Internal antenna
+3,,,,,,,,,,,,,180,Down,,grid,,,d5g,Internal APs that need to be set to dual 5 GHz
+4,,,,,,,,,,,,,270,Left,,ceiling,,,810,AP63E + ATS03022 antenna
+5,,,,,,,,,,,,,,,,wall,,,1312,AP63E + ATS01022 antenna
+6,,,,,,,,,,,,,,,,threaded-rod,,,,
+7,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,,,,,,,Column B (ap_name) must match the AP names in Ekahau.,,,,,,,
 9,,,,,,,,,,,,,Column C (new_ap_name) should be what you want the name of the AP to be updated to in Ekahau.,,,,,,,
 10,,,,,,,,,,,,,AP notes are added to the AP notes section in Ekahau,,,,,,,
 11,,,,,,,,,,,,,"Height should be input in decimal notation (9.5) and not feet + inches (9'6"")",,,,,,,
@@ -137,3 +137,4 @@ ap#,ap_name,new_ap_name,ap_mac,ap_sn,ap_notes,height_actual,ap_orientation,mount
 136,,,,,,,,,,,,,,,,,,,,
 137,,,,,,,,,,,,,,,,,,,,
 138,,,,,,,,,,,,,,,,,,,,
+
